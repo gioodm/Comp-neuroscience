@@ -1,5 +1,5 @@
 # Comp-neuroscience
 
-Skills sessions
+Skills sessions  
 MSB1013 - Giorgia Del Missier
 
